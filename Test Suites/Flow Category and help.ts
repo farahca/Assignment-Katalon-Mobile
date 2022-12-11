@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>flow checkout</name>
+   <name>Flow Category and help</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>5edcc407-53e6-4794-ace7-3de03854ad25</testSuiteGuid>
+   <testSuiteGuid>7fa9f377-825a-4aef-aede-bd27b506c06e</testSuiteGuid>
    <testCaseLink>
-      <guid>4d7ae829-0cc2-4352-a559-f5a774862185</guid>
+      <guid>e4543802-2579-432a-a831-780ce7b66d7e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC Recent Menu</testCaseId>
+      <testCaseId>Test Cases/TC Category</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>13626e31-4122-426e-b079-a5599150c307</guid>
+      <guid>63f55a3a-a699-474a-9c6f-575e914f4ba3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC add to card</testCaseId>
+      <testCaseId>Test Cases/TC Help</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>caf8b829-75bc-42a0-aa8e-a5324c71a90b</guid>
+      <guid>5dfd22c5-e68d-45ac-8e9f-63ff777112d1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC Check Out</testCaseId>
+      <testCaseId>Test Cases/TC Search help</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
